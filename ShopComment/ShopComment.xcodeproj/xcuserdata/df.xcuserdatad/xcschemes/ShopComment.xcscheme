@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0720"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "92C1ACAA1CBF6CCD0036ED85"
-               BuildableName = "&#x8d2d;&#x7269;&#x8bc4;&#x8bba;.app"
-               BlueprintName = "&#x8d2d;&#x7269;&#x8bc4;&#x8bba;"
-               ReferencedContainer = "container:&#x8d2d;&#x7269;&#x8bc4;&#x8bba;.xcodeproj">
+               BlueprintIdentifier = "A3958FBF1E6D39610032DAB2"
+               BuildableName = "ShopComment.app"
+               BlueprintName = "ShopComment"
+               ReferencedContainer = "container:ShopComment.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "92C1ACC31CBF6CCD0036ED85"
-               BuildableName = "&#x8d2d;&#x7269;&#x8bc4;&#x8bba;Tests.xctest"
-               BlueprintName = "&#x8d2d;&#x7269;&#x8bc4;&#x8bba;Tests"
-               ReferencedContainer = "container:&#x8d2d;&#x7269;&#x8bc4;&#x8bba;.xcodeproj">
+               BlueprintIdentifier = "A3958FD81E6D39610032DAB2"
+               BuildableName = "ShopCommentTests.xctest"
+               BlueprintName = "ShopCommentTests"
+               ReferencedContainer = "container:ShopComment.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "92C1ACCE1CBF6CCD0036ED85"
-               BuildableName = "&#x8d2d;&#x7269;&#x8bc4;&#x8bba;UITests.xctest"
-               BlueprintName = "&#x8d2d;&#x7269;&#x8bc4;&#x8bba;UITests"
-               ReferencedContainer = "container:&#x8d2d;&#x7269;&#x8bc4;&#x8bba;.xcodeproj">
+               BlueprintIdentifier = "A3958FE31E6D39620032DAB2"
+               BuildableName = "ShopCommentUITests.xctest"
+               BlueprintName = "ShopCommentUITests"
+               ReferencedContainer = "container:ShopComment.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92C1ACAA1CBF6CCD0036ED85"
-            BuildableName = "&#x8d2d;&#x7269;&#x8bc4;&#x8bba;.app"
-            BlueprintName = "&#x8d2d;&#x7269;&#x8bc4;&#x8bba;"
-            ReferencedContainer = "container:&#x8d2d;&#x7269;&#x8bc4;&#x8bba;.xcodeproj">
+            BlueprintIdentifier = "A3958FBF1E6D39610032DAB2"
+            BuildableName = "ShopComment.app"
+            BlueprintName = "ShopComment"
+            ReferencedContainer = "container:ShopComment.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92C1ACAA1CBF6CCD0036ED85"
-            BuildableName = "&#x8d2d;&#x7269;&#x8bc4;&#x8bba;.app"
-            BlueprintName = "&#x8d2d;&#x7269;&#x8bc4;&#x8bba;"
-            ReferencedContainer = "container:&#x8d2d;&#x7269;&#x8bc4;&#x8bba;.xcodeproj">
+            BlueprintIdentifier = "A3958FBF1E6D39610032DAB2"
+            BuildableName = "ShopComment.app"
+            BlueprintName = "ShopComment"
+            ReferencedContainer = "container:ShopComment.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "92C1ACAA1CBF6CCD0036ED85"
-            BuildableName = "&#x8d2d;&#x7269;&#x8bc4;&#x8bba;.app"
-            BlueprintName = "&#x8d2d;&#x7269;&#x8bc4;&#x8bba;"
-            ReferencedContainer = "container:&#x8d2d;&#x7269;&#x8bc4;&#x8bba;.xcodeproj">
+            BlueprintIdentifier = "A3958FBF1E6D39610032DAB2"
+            BuildableName = "ShopComment.app"
+            BlueprintName = "ShopComment"
+            ReferencedContainer = "container:ShopComment.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

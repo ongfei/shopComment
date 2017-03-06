@@ -1,18 +1,18 @@
 //
-//  ____UITests.m
-//  购物评论UITests
+//  ShopCommentUITests.m
+//  ShopCommentUITests
 //
-//  Created by SINOKJ on 16/4/14.
-//  Copyright © 2016年 Dyf. All rights reserved.
+//  Created by df on 2017/3/6.
+//  Copyright © 2017年 df. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
 
-@interface ____UITests : XCTestCase
+@interface ShopCommentUITests : XCTestCase
 
 @end
 
-@implementation ____UITests
+@implementation ShopCommentUITests
 
 - (void)setUp {
     [super setUp];

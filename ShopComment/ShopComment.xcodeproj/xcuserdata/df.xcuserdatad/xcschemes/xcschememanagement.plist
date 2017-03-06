@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>购物评论.xcscheme</key>
+		<key>ShopComment.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>92C1ACAA1CBF6CCD0036ED85</key>
+		<key>A3958FBF1E6D39610032DAB2</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>92C1ACC31CBF6CCD0036ED85</key>
+		<key>A3958FD81E6D39610032DAB2</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>92C1ACCE1CBF6CCD0036ED85</key>
+		<key>A3958FE31E6D39620032DAB2</key>
 		<dict>
 			<key>primary</key>
 			<true/>
